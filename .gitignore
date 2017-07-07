@@ -4,3 +4,5 @@ Client/obj/
 packages/
 Server/bin/
 Server/obj/
+Common/bin/
+Common/obj/
