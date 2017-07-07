@@ -1,0 +1,6 @@
+.vs/
+Client/bin/
+Client/obj/
+packages/
+Server/bin/
+Server/obj/
